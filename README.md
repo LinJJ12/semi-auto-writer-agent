@@ -1,4 +1,4 @@
-# Artile Agent Studio
+# semi-auto-writer-agent
 
 一个面向公众号创作的半自动智能体工作台。
 
@@ -11,6 +11,7 @@
 - 使用 Markdown 编辑正文
 - 实时预览 3 套公众号排版模板
 - 复制 Markdown 或 HTML，便于后续接公众号草稿箱
+<img width="626" height="783" alt="03f44a5bdb96a4ecde59f550d1df2119" src="https://github.com/user-attachments/assets/691d7c67-ea8c-42d2-bf1d-6568dcd4b1fb" />
 
 ## 技术栈
 
